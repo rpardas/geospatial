@@ -4,9 +4,9 @@
 
 ```conda env create -f environment.yml```
 
-### for geopandas, osmnx, and arcgis libraries
+for geopandas, osmnx, and arcgis libraries
 
-# arcgis_online_publish.ipynb
+## arcgis_online_publish.ipynb
 Jupyter notebook with various methods of interacting with your ArcGIS Online account contents
 
     - Delete existing items
